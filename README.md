@@ -2,7 +2,7 @@
 Initial commit
 
 I coded a game based on the Problem of the Week #90 of Harvard Physics Department: https://www.physics.harvard.edu/files/prob90.pdf. 
-I found this game to be simple, but deeply strategic. To reiterate the rules of the game, "There are three piles, each of which contains 
+This game is pretty simple, but is also deeply strategic. To reiterate the rules of the game, "There are three piles, each of which contains 
 some number of coins. Players alternate turns, each turn consisting of removing any (non-zero) number of coins from a single pile.
 The goal is to be the person to remove the last coin(s). Determine the optimal strategy".
 
